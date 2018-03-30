@@ -1,0 +1,12 @@
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\bin\Debug\Aerodrom.exe.config
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\bin\Debug\Aerodrom.exe
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\bin\Debug\Aerodrom.pdb
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csprojResolveAssemblyReference.cache
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.Аеродроми.resources
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.Nov_aerodrom.resources
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.Properties.Resources.resources
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csproj.GenerateResource.Cache
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csproj.CoreCompileInputs.cache
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.exe
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.pdb
+C:\Users\Hulk\source\repos\Aerodrom\Aerodrom\obj\Debug\Aerodrom.Nova_Destinacija.resources
